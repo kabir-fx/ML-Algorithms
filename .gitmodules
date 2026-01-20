@@ -16,3 +16,6 @@
 [submodule "Random-Forest-Regression"]
 	path = Random-Forest-Regression
 	url = https://github.com/kabir-fx/Random-Forest-Regression.git
+[submodule "Random-Forest-Classification"]
+	path = Random-Forest-Classification
+	url = https://github.com/kabir-fx/Random-Forest-Classification.git
