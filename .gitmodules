@@ -1,0 +1,9 @@
+[submodule "Simple-Linear-Regression"]
+	path = Simple-Linear-Regression
+	url = https://github.com/kabir-fx/Simple-Linear-Regression.git
+[submodule "Multiple-Linear-Regression"]
+	path = Multiple-Linear-Regression
+	url = https://github.com/kabir-fx/Multiple-Linear-Regression.git
+[submodule "Logistic-Regression"]
+	path = Logistic-Regression
+	url = https://github.com/kabir-fx/Logistic-Regression.git
