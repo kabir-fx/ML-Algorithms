@@ -7,3 +7,6 @@
 [submodule "Logistic-Regression"]
 	path = Logistic-Regression
 	url = https://github.com/kabir-fx/Logistic-Regression.git
+[submodule "Polynomial-Regression"]
+	path = Polynomial-Regression
+	url = https://github.com/kabir-fx/-Polynomial-Regression.git
