@@ -13,3 +13,6 @@
 [submodule "Decision-Tree-Regression"]
 	path = Decision-Tree-Regression
 	url = https://github.com/kabir-fx/Decision-Tree-Regression.git
+[submodule "Random-Forest-Regression"]
+	path = Random-Forest-Regression
+	url = https://github.com/kabir-fx/Random-Forest-Regression.git
