@@ -10,3 +10,6 @@
 [submodule "Polynomial-Regression"]
 	path = Polynomial-Regression
 	url = https://github.com/kabir-fx/-Polynomial-Regression.git
+[submodule "Decision-Tree-Regression"]
+	path = Decision-Tree-Regression
+	url = https://github.com/kabir-fx/Decision-Tree-Regression.git
