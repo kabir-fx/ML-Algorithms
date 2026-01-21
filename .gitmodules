@@ -22,3 +22,6 @@
 [submodule "K-Nearest-Neighbors"]
 	path = K-Nearest-Neighbors
 	url = https://github.com/kabir-fx/K-Nearest-Neighbors.git
+[submodule "Hierarchical-Clustering"]
+	path = Hierarchical-Clustering
+	url = https://github.com/kabir-fx/Hierarchical-Clustering.git
