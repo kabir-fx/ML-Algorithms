@@ -40,3 +40,6 @@
 [submodule "Kernel-PCA"]
 	path = Dimensionality_Reduction/Kernel-PCA
 	url = https://github.com/kabir-fx/Kernel-PCA.git
+[submodule "Classification/Naive-Bayes"]
+	path = Classification/Naive-Bayes
+	url = https://github.com/kabir-fx/Naive-Bayes.git
