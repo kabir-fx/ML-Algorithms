@@ -31,3 +31,6 @@
 [submodule "Support-Vector-Regression"]
 	path = Support-Vector-Regression
 	url = https://github.com/kabir-fx/Support-Vector-Regression.git
+[submodule "Kernel-SVM"]
+	path = Kernel-SVM
+	url = https://github.com/kabir-fx/Kernel-SVM.git
