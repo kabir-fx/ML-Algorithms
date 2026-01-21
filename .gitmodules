@@ -37,3 +37,6 @@
 [submodule "Support-Vector-Machine"]
 	path = Support-Vector-Machine
 	url = https://github.com/kabir-fx/Support-Vector-Machine.git
+[submodule "Kernel-PCA"]
+	path = Kernel-PCA
+	url = https://github.com/kabir-fx/Kernel-PCA.git
