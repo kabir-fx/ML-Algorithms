@@ -1,42 +1,42 @@
 [submodule "Simple-Linear-Regression"]
-	path = Simple-Linear-Regression
+	path = Regression/Simple-Linear-Regression
 	url = https://github.com/kabir-fx/Simple-Linear-Regression.git
 [submodule "Multiple-Linear-Regression"]
-	path = Multiple-Linear-Regression
+	path = Regression/Multiple-Linear-Regression
 	url = https://github.com/kabir-fx/Multiple-Linear-Regression.git
 [submodule "Logistic-Regression"]
-	path = Logistic-Regression
+	path = Classification/Logistic-Regression
 	url = https://github.com/kabir-fx/Logistic-Regression.git
 [submodule "Polynomial-Regression"]
-	path = Polynomial-Regression
+	path = Regression/Polynomial-Regression
 	url = https://github.com/kabir-fx/-Polynomial-Regression.git
 [submodule "Decision-Tree-Regression"]
-	path = Decision-Tree-Regression
+	path = Regression/Decision-Tree-Regression
 	url = https://github.com/kabir-fx/Decision-Tree-Regression.git
 [submodule "Random-Forest-Regression"]
-	path = Random-Forest-Regression
+	path = Regression/Random-Forest-Regression
 	url = https://github.com/kabir-fx/Random-Forest-Regression.git
 [submodule "Random-Forest-Classification"]
-	path = Random-Forest-Classification
+	path = Classification/Random-Forest-Classification
 	url = https://github.com/kabir-fx/Random-Forest-Classification.git
 [submodule "K-Nearest-Neighbors"]
-	path = K-Nearest-Neighbors
+	path = Classification/K-Nearest-Neighbors
 	url = https://github.com/kabir-fx/K-Nearest-Neighbors.git
 [submodule "Hierarchical-Clustering"]
-	path = Hierarchical-Clustering
+	path = Clustering/Hierarchical-Clustering
 	url = https://github.com/kabir-fx/Hierarchical-Clustering.git
 [submodule "K-Means-Clustering"]
-	path = K-Means-Clustering
+	path = Clustering/K-Means-Clustering
 	url = https://github.com/kabir-fx/K-Means-Clustering.git
 [submodule "Support-Vector-Regression"]
-	path = Support-Vector-Regression
+	path = Regression/Support-Vector-Regression
 	url = https://github.com/kabir-fx/Support-Vector-Regression.git
 [submodule "Kernel-SVM"]
-	path = Kernel-SVM
+	path = Classification/Kernel-SVM
 	url = https://github.com/kabir-fx/Kernel-SVM.git
 [submodule "Support-Vector-Machine"]
-	path = Support-Vector-Machine
+	path = Classification/Support-Vector-Machine
 	url = https://github.com/kabir-fx/Support-Vector-Machine.git
 [submodule "Kernel-PCA"]
-	path = Kernel-PCA
+	path = Dimensionality_Reduction/Kernel-PCA
 	url = https://github.com/kabir-fx/Kernel-PCA.git
