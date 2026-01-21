@@ -43,3 +43,6 @@
 [submodule "Classification/Naive-Bayes"]
 	path = Classification/Naive-Bayes
 	url = https://github.com/kabir-fx/Naive-Bayes.git
+[submodule "Classification/Decision-Tree-Classification"]
+	path = Classification/Decision-Tree-Classification
+	url = https://github.com/kabir-fx/Decision-Tree-Classification.git
