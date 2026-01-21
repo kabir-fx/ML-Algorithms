@@ -25,3 +25,9 @@
 [submodule "Hierarchical-Clustering"]
 	path = Hierarchical-Clustering
 	url = https://github.com/kabir-fx/Hierarchical-Clustering.git
+[submodule "K-Means-Clustering"]
+	path = K-Means-Clustering
+	url = https://github.com/kabir-fx/K-Means-Clustering.git
+[submodule "Support-Vector-Regression"]
+	path = Support-Vector-Regression
+	url = https://github.com/kabir-fx/Support-Vector-Regression.git
