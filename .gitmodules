@@ -52,3 +52,9 @@
 [submodule "Reinforcement Learning/Thompson-Sampling"]
 	path = Reinforcement Learning/Thompson-Sampling
 	url = https://github.com/kabir-fx/Thompson-Sampling.git
+[submodule "Dimensionality_Reduction/Principal-Component-Analysis"]
+	path = Dimensionality_Reduction/Principal-Component-Analysis
+	url = https://github.com/kabir-fx/Principal-Component-Analysis.git
+[submodule "Dimensionality_Reduction/Linear-Discriminant-Analysis"]
+	path = Dimensionality_Reduction/Linear-Discriminant-Analysis
+	url = https://github.com/kabir-fx/Linear-Discriminant-Analysis.git
