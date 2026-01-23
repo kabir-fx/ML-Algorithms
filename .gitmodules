@@ -46,3 +46,9 @@
 [submodule "Classification/Decision-Tree-Classification"]
 	path = Classification/Decision-Tree-Classification
 	url = https://github.com/kabir-fx/Decision-Tree-Classification.git
+[submodule "Reinforcement Learning/Upper-Confidence-Bound"]
+	path = Reinforcement Learning/Upper-Confidence-Bound
+	url = https://github.com/kabir-fx/Upper-Confidence-Bound.git
+[submodule "Reinforcement Learning/Thompson-Sampling"]
+	path = Reinforcement Learning/Thompson-Sampling
+	url = https://github.com/kabir-fx/Thompson-Sampling.git
